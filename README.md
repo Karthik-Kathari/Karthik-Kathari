@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi, I’m **Karthik Kathari**, a passionate **Junior Frontend Developer Intern** and **Cybersecurity Intern** with a unique blend of expertise in **web development** and **cybersecurity**. I bring an analytical mindset from my background in **Criminology and Forensic Science** into the tech world, enabling me to approach problem-solving with precision and creativity.  
+Hi, I’m Karthik Kathari, a passionate **Frontend Developer** with a solid foundation in web development and a growing interest in cybersecurity. I bring an analytical mindset from my background in Criminology and Forensic Science, allowing me to approach problem-solving with precision and creativity. Having completed internships in Frontend Development and Cybersecurity, I’ve gained practical experience in building user-friendly, secure digital solutions.
 
 ## 👀 Interests  
 I am deeply interested in:  
