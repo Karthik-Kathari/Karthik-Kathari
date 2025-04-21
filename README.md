@@ -29,4 +29,4 @@ I hold a Master’s degree in **Criminology and Forensic Science**, and I use my
 
 ---
 
-Let’s connect and make an impact together!  
+🤝 Let’s connect and make an impact together!  
