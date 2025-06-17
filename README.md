@@ -1,12 +1,12 @@
 # 👋 About Me  
 
-Hi, I’m Karthik Kathari, a passionate **Frontend Developer** with a solid foundation in web development and a growing interest in cybersecurity. I bring an analytical mindset from my background in Criminology and Forensic Science, allowing me to approach problem-solving with precision and creativity. Having completed internships in Frontend Development and Cybersecurity, I’ve gained practical experience in building user-friendly, secure digital solutions.
+Hi, I’m Karthik Kathari — a passionate Front-end Developer driven by a love for clean design, interactive interfaces, and seamless user experiences. I enjoy bringing ideas to life in the browser and constantly exploring new ways to enhance usability and performance. My background in Criminology and Forensic Science sharpens my analytical thinking, helping me tackle development challenges with creativity and precision. I’ve also explored cybersecurity through internships, adding an extra layer of awareness to the way I build secure front-end solutions.
 
 ## 👀 Interests  
 I am deeply interested in:  
 - **Frontend Development**: Crafting responsive, user-friendly web applications.  
-- **Cybersecurity**: Ensuring secure systems and safeguarding data.  
 - **Responsible AI**: Exploring ethical approaches to AI development.  
+- **Cybersecurity**: Ensuring secure systems and safeguarding data.  
 
 ## 🌱 Currently Learning  
 - **MERN Stack**: Strengthening my skills in modern web development technologies.  
