@@ -28,8 +28,11 @@ He/Him
 I hold a Master’s degree in **Criminology and Forensic Science**, and I use my analytical and investigative skills to tackle tech challenges with creativity and efficiency.  
 
 ### ☕ Support Me  
-If you like what I do, maybe consider buying me a coffee?
-<br/>
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/karthikkath)
+If you like what I do, maybe consider buying me a coffee? 👉
+<a href="https://www.buymeacoffee.com/karthikkath">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=karthikkath&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" 
+       style="width:150px; height:auto;" />
+</a>👈
+
 
 🤝 Let’s connect and make an impact together!  
