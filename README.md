@@ -1,33 +1,64 @@
-# 👋 About Me  
+# 👋 About Me
 
-Hi, I’m Karthik Kathari — a passionate Front-end Developer driven by a love for clean design, interactive interfaces, and seamless user experiences. I enjoy bringing ideas to life in the browser and constantly exploring new ways to enhance usability and performance. My background in Criminology and Forensic Science sharpens my analytical thinking, helping me tackle development challenges with creativity and precision. I’ve also explored cybersecurity through internships, adding an extra layer of awareness to the way I build secure front-end solutions.
+Hi, I’m **Karthik Kathari** — a **Full Stack Developer** passionate about building scalable, responsive, and user-friendly web applications.
 
-## 👀 Interests  
-I am deeply interested in:  
-- **Frontend Development**: Crafting responsive, user-friendly web applications.  
-- **Responsible AI**: Exploring ethical approaches to AI development.  
-- **Cybersecurity**: Ensuring secure systems and safeguarding data.  
+I currently work as a **Full Stack Developer at Gray Materials**, where I work on real-world applications across frontend development, backend services, API integration, bug fixing, maintenance, and application infrastructure. I also have experience leading a team and coordinating development activities.
 
-## 🌱 Currently Learning  
-- **MERN Stack**: Strengthening my skills in modern web development technologies.  
-- **Cybersecurity Tools**: Enhancing expertise in **Kali Linux** and secure coding practices.  
+My technical interests include modern web development, clean UI/UX, scalable backend systems, performance optimization, and secure application development.
 
-## 💞️ Collaboration  
-I’m eager to collaborate on:  
-- **Web Development Projects**: Frontend development, UI/UX optimization, and building scalable web apps.  
-- **Cybersecurity Initiatives**: Vulnerability assessments, penetration testing, and secure system architecture.  
+## 🛠️ Tech Stack
 
-## 📫 Contact Me  
-- **LinkedIn**: [linkedin.com/in/karthik-kathari](https://www.linkedin.com/in/karthik-kathari)  
-- **Email**: [Karthikkathari74@gmail.com](mailto:Karthikkathari74@gmail.com)  
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, Python, FastAPI
+- **Database:** PostgreSQL, MongoDB
+- **Cloud & Deployment:** AWS, Vercel, Render, Supabase, Cloudflare
+- **Tools:** Git, GitHub, REST APIs
+- **AI & Developer Tools:** ChatGPT, GitHub Copilot, Gemini, Perplexity
 
-## 😄 Pronouns  
-He/Him  
+## 💻 What I Do
 
-## ⚡ Fun Fact  
-I hold a Master’s degree in **Criminology and Forensic Science**, and I use my analytical and investigative skills to tackle tech challenges with creativity and efficiency.  
+- 🚀 Build responsive and scalable web applications
+- 🎨 Develop modern and user-friendly interfaces
+- 🔗 Integrate REST APIs and backend services
+- ⚙️ Develop and maintain backend services
+- 🐛 Debug, optimize, and maintain production applications
+- ☁️ Work with cloud platforms and deployment environments
+- 👥 Collaborate with and lead development teams
+- 🔐 Follow secure and maintainable development practices
 
-### ☕ Support Me  
+## 🌱 Currently Exploring
+
+- Advanced Full Stack Development
+- Scalable application architecture
+- Cloud infrastructure and deployment
+- AI-powered applications
+- Performance optimization
+- System design
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+- Full Stack Web Applications
+- Frontend & UI/UX Projects
+- SaaS Products
+- API & Backend Development
+- AI-powered Web Applications
+- Open Source Projects
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/karthik-kathari](https://www.linkedin.com/in/karthik-kathari)
+- **Email:** [Karthikkathari@gmail.com](mailto:Karthikkathari@gmail.com)
+
+## ⚡ Fun Fact
+
+My academic background is in **Criminology and Forensic Science**, which developed my analytical and investigative approach to problem-solving. I later transitioned into software development and built my career around technology, web development, and real-world engineering.
+
+---
+
+### ☕ Support Me
+
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=karthikkath&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/karthikkath)
 
-🤝 Let’s connect and make an impact together!  
+🤝 **Let’s build something impactful together!**
