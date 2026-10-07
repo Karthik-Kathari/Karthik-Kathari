@@ -13,7 +13,7 @@ My technical interests include modern web development, clean UI/UX, scalable bac
 - **Database:** PostgreSQL, MongoDB
 - **Cloud & Deployment:** AWS, Vercel, Render, Supabase, Cloudflare
 - **Tools:** Git, GitHub, REST APIs
-- **AI & Developer Tools:** ChatGPT, GitHub Copilot, Gemini, Perplexity
+- **AI & Developer Tools:** Claude, Cursor, GitHub Copilot, ChatGPT, Gemini, Perplexity and more.
 
 ## 💻 What I Do
 
