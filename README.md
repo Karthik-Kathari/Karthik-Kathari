@@ -49,7 +49,7 @@ I’m open to collaborating on:
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/karthik-kathari](https://www.linkedin.com/in/karthik-kathari)
-- **Email:** [Karthikkathari@gmail.com](mailto:Karthikkathari@gmail.com)
+- **Email:** [Karthikkathari74@gmail.com](mailto:Karthikkathari74@gmail.com)
 
 ## ⚡ Fun Fact
 
