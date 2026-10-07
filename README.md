@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I’m **Karthik Kathari** — a **Full Stack Developer** passionate about building scalable, responsive, and user-friendly web applications.
+Hi, I’m **Karthik Kathari**  a **Full Stack Developer** passionate about building scalable, responsive, and user-friendly web applications.
 
 I currently work as a **Full Stack Developer at Gray Materials**, where I work on real-world applications across frontend development, backend services, API integration, bug fixing, maintenance, and application infrastructure. I also have experience leading a team and coordinating development activities.
 
